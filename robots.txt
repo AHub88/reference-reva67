@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AHub88.github.io/reference-reva67/sitemap.xml
